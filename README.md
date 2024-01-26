@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vannessa, an <a href="https://linkedin.com/in/vannessa-cates-81b86b130">IT Professional</a>☺</h1>
+<h1>Hi, I'm Vannessa, ☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
